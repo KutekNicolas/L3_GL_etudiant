@@ -1,0 +1,10 @@
+total 0
+drwxrwxr-x+ 9 afourni1 l3info 0 févr. 22 09:47 BDA
+drwxrwxr-x+ 3 afourni1 l3info 0 févr. 14 12:51 C++
+drwxrwxr-x+ 8 afourni1 l3info 0 déc.  19 14:44 Java
+-rwxrwxr-x+ 1 afourni1 l3info 0 févr. 22 09:51 liste.txt
+drwxrwxr-x+ 4 afourni1 l3info 0 févr. 22 09:29 tmp
+drwxrwxr-x+ 4 afourni1 l3info 0 févr. 20 16:16 TP Graphique
+drwxrwxr-x+ 2 afourni1 l3info 0 nov.  13 15:59 TP MATLAB
+drwxrwxr-x+ 3 afourni1 l3info 0 déc.   6 15:44 TP Reseaux
+drwxrwxr-x+ 2 afourni1 l3info 0 déc.  22 14:36 TP Scilab

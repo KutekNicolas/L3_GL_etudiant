@@ -1,0 +1,3 @@
+echo bonjour
+echo liste fichier :
+find -type=file  /bin/ t*
